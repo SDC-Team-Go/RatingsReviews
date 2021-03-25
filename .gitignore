@@ -1,0 +1,5 @@
+#pem file
+*.pem
+#node_modules
+node_modules
+newrelic.js
